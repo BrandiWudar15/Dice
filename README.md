@@ -30,7 +30,7 @@
    I created constructors that receive the arguments from the main method and create the objects.
    I then created getter methods that return the characteristics of the polygons. The 'area' getter
    method is used to compute the area of the polygon and return it. The getPoint method returns the location
-   of the object. The 'getLayer' method returns which position in the layer of the created objects a particular object lies.
+   of the object. The 'getLayer' method returns each respective object's position in the layer sequence.
    I also used a 'toString' method that allowed me to format the output as shown below:
 </p>	
 			 
