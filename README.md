@@ -60,7 +60,7 @@
    arguments to the objects' constructors and method calls.  I also used the Point objects as arguments to assign coordinates
    to each shape, and I hard coded a number that serves as the objects position in the layer. After the objects were created, 
    I called the getArea methods to compute the area of each object. The program then prints the object's area, coordinates, 
-   and position in the layer to the screen. Each object is printed according to the toString methods in each object class. I
+   and position in the layer sequence to the screen. Each object is printed according to the toString methods in each object class. I
    then added the areas of each alike objects together and printed the total areas to the screen. I did this for each type of 
    polygon object.
    
