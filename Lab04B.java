@@ -54,7 +54,7 @@ public class Lab04B {
          p[5] = new Point(circle2x, circle2y);
         
          
-        //Create object arrays
+        //Create Shape object arrays
         Rectangle r[];
         r = new Rectangle[2];
         
@@ -64,13 +64,8 @@ public class Lab04B {
         
         Circle c[];
         c = new Circle[2];
-        
-        
-        //Create Point objects array and fill the array
-        
-        
-        
-        
+
+
         //Create rectangle objects and fill the array
     
             //Rectangle1
@@ -93,6 +88,7 @@ public class Lab04B {
             System.out.println("-------------------------------");
             
             System.out.println();
+        
         //Create Triangle objects and fill the array
  
             //Triangle 1
@@ -115,6 +111,7 @@ public class Lab04B {
            System.out.println("-------------------------------");
             
            System.out.println();
+        
          //Create Circle objects and fill the array
          
             //Circle 1
