@@ -49,7 +49,7 @@
    serve as the arguments used in the constructors and method calls for each object. 
 </p>
 
-
+<p><img src="Variables01.jpg" alt="Variables"> </p>
 
 <p>I then created an array for every type of object. Doing this allowed me to hold multiples of each type of object.</p>
 
